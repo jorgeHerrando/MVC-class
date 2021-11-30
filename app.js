@@ -17,8 +17,8 @@ app.set("views", path.join(__dirname, "views")); // express accede directamente 
 
 // ************ Route System require and use() ************
 
-const mainRouter = require("./routes/mainRouter");
 const productsRouter = require("./routes/productsRouter");
+const productsController = require("./controllers/productsController");
 
 // SISTEMA DE RUTEO
 

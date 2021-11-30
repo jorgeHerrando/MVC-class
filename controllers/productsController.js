@@ -6,7 +6,7 @@ const path = require("path");
 const productsController = {
   // Todos los productos
 
-  // all: ,
+  // all: 
 
 
   // Detalle de producto
